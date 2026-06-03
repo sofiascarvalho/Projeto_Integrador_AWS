@@ -24,9 +24,10 @@ Através desta análise técnica, não apenas extraímos o sentimento do consumi
 ## 👥 Equipe do Projeto
 
 Projeto desenvolvido colaborativamente por:
-* **Kauã Marques Rodrigues**
-* **[Nome do Integrante 2]** * **[Nome do Integrante 3]**
-* **[Nome do Integrante 4]**
+* **[Kauã Marques Rodrigues](www.linkedin.com/in/kauamrodrigues/)**
+* **[Sofia de Souza Carvalho](https://www.linkedin.com/in/sofiascarvalho/)**
+* **[Rafael Cremasco Serrão da Silva](https://www.linkedin.com/in/rafael-cremasco074/)**
+* **[Julia Miranda da Silva Santana](https://www.linkedin.com/in/julia-miranda-a9aa44401/)**
 
 ---
 
@@ -80,12 +81,3 @@ Após processar milhares de avaliações reais, o projeto revelou *insights* est
 ```bash
 
 git clone [https://github.com/sofiascarvalho/Projeto_Integrador_AWS.git](https://github.com/sofiascarvalho/Projeto_Integrador_AWS.git)
-```
-
-## 👥 Equipe do Projeto
-
-Projeto desenvolvido colaborativamente por:
-* **[Kauã Marques Rodrigues](www.linkedin.com/in/kauamrodrigues/)**
-* **[Sofia de Souza Carvalho](https://www.linkedin.com/in/sofiascarvalho/)**
-* **[Rafael Cremasco Serrão da Silva](https://www.linkedin.com/in/rafael-cremasco074/)**
-* **[Julia Miranda da Silva Santana](https://www.linkedin.com/in/julia-miranda-a9aa44401/)**
