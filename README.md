@@ -24,7 +24,7 @@ Através desta análise técnica, não apenas extraímos o sentimento do consumi
 ## 👥 Equipe do Projeto
 
 Projeto desenvolvido colaborativamente por:
-* **[Kauã Marques Rodrigues](www.linkedin.com/in/kauamrodrigues/)**
+* **[Kauã Marques Rodrigues](https://www.linkedin.com/in/kauamrodrigues/)**
 * **[Sofia de Souza Carvalho](https://www.linkedin.com/in/sofiascarvalho/)**
 * **[Rafael Cremasco Serrão da Silva](https://www.linkedin.com/in/rafael-cremasco074/)**
 * **[Julia Miranda da Silva Santana](https://www.linkedin.com/in/julia-miranda-a9aa44401/)**
